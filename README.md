@@ -9,7 +9,7 @@ Work out whether a failed initiative, a rejected application, a cancelled projec
 
 ## Why
 
-A stated reason for a failure is rarely the whole story, and "it didn't work out" usually hides several genuinely different situations: a real dealbreaker that will not change, a temporary pause with its own timeline, a thread that just needs a normal follow-up, or a clear no that should stay closed. Treating all four the same way gets at least one of them wrong, chasing something that has clearly ended, or writing off something that has not.
+A stated reason for a failure is rarely the whole story. "It didn't work out" usually hides several genuinely different situations: a real dealbreaker that will not change, a temporary pause with its own timeline, a thread that just needs a normal follow-up, or a clear no that should stay closed. Treating all four the same way gets at least one of them wrong: chasing something that has clearly ended, or writing off something that has not.
 
 ```mermaid
 flowchart TB
