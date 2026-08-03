@@ -58,4 +58,4 @@ Say so, and name exactly what would resolve the uncertainty, rather than picking
 
 This produces an analysis and a recommendation. Any actual decision to try again, and any message sent, stays a deliberate human choice.
 
-For a fictional worked example, read [the worked example](example/). Use [the blank template](templates/post-mortem-template.md) for your own case.
+For a fictional worked example, read [the worked example](example/). For a harder case, a stated reason blending multiple factors with no clear primary one, read [the second worked example](example-two/). Use [the blank template](templates/post-mortem-template.md) for your own case, and [the review checklist](checks/checklist.md) before deciding whether to try again.
