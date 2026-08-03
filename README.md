@@ -11,13 +11,7 @@ Work out whether a failed initiative, a rejected application, a cancelled projec
 
 A stated reason for a failure is rarely the whole story. "It didn't work out" usually hides several genuinely different situations: a real dealbreaker that will not change, a temporary pause with its own timeline, a thread that just needs a normal follow-up, or a clear no that should stay closed. Treating all four the same way gets at least one of them wrong: chasing something that has clearly ended, or writing off something that has not.
 
-```mermaid
-flowchart TB
-    A["1. Paste the final message and what changed"]
-    B["2. Fact separated from the story that fits best"]
-    C["3. Classified, with what would justify trying again"]
-    A --> B --> C
-```
+![A simple tree of possible classifications after an outcome.](assets/diagrams/03-post-mortem-builder.svg)
 
 ## Use It
 
