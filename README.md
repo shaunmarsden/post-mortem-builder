@@ -43,10 +43,6 @@ No installation, project, or coding required to try it once.
 
 This produces an analysis and a recommendation. Whether to actually try again, and any message sent, stays a deliberate decision you make yourself. It will never suggest a reason to re-approach someone who has given a clear, unconditional no.
 
-## Licence
-
-MIT.
-
 ## Feedback
 
 Used it on a real case? [Start a discussion](https://github.com/shaunmarsden/post-mortem-builder/discussions) if a classification did not fit or a category was missing.
