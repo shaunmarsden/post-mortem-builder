@@ -5,7 +5,7 @@ description: Work out whether a failed initiative, a rejected application, a can
 
 # Post-Mortem Builder
 
-You do not need to install anything to try this once: copy this whole file, paste it as your first message in any AI chat tool, then follow it with your actual inputs.
+You do not need to install anything to try this once. The lines between the dashes at the very top are just this file's label; leave them in. On GitHub, copy this using the **Raw** button near the top of the page rather than selecting the rendered text, so the tables and links below paste in cleanly. Send the whole file as your first message in any AI chat tool, then follow it with your actual inputs.
 
 A stated reason for a failure is not always the whole story, and the person who said no is not always the whole story either. This tells the difference between something genuinely over and something only blocked, before either chasing something that has clearly ended or writing off something that has not.
 
