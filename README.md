@@ -13,6 +13,8 @@ A stated reason for a failure is rarely the whole story. "It didn't work out" us
 
 [![A simple tree of possible classifications after an outcome.](assets/diagrams/03-post-mortem-builder.svg)](SKILL.md)
 
+**Not what you need?** This is for something that has already closed, been rejected, or gone quiet for good. If the decision is still open and just taking a while, [What's Actually Causing This Delay?](https://github.com/shaunmarsden/whats-causing-this-delay) is probably the one you want.
+
 ## Use It
 
 Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in the final message or record, and whatever you know about what changed. It classifies the outcome as one of:
