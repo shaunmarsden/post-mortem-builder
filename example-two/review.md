@@ -12,7 +12,7 @@ It was straight about what trying again would and wouldn't address. It didn't cl
 
 ## What Still Needs a Human Check
 
-- Only the person can judge whether it's worth asking directly which factor mattered most, rather than guessing from a blended reason.
+- Only the person can judge whether it's worth asking directly which factor mattered most, rather than guessing from a blended reason. SKILL.md asks the output to name what would resolve the uncertainty, and this one doesn't. Asking which factor decided it is the obvious step.
 
 ## Verdict
 

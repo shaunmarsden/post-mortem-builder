@@ -12,6 +12,7 @@ It respected the clear no in Case D. The reply was about as unconditional as a d
 
 ## What Still Needs a Human Check
 
+- The output skips the template's "What Was Said or Shown" and "Does the Underlying Case Still Stand?" sections for all four cases.
 - Case C's silence is six weeks old in this example. In a real case, check whether anything else, such as an out-of-office or a role change, might explain it before assuming the follow-up is simply overdue.
 - Case B's reapplication window depends on Thistlewood's strategy review finishing on time. In a real case, check that timeline hasn't slipped before reapplying.
 
