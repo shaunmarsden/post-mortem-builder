@@ -9,7 +9,7 @@ Work out whether a failed attempt (a rejected application, a cancelled project, 
 
 ## Why
 
-The reason you're given for a failure is rarely the whole story. "It didn't work out" can mean several different things. It might be a real dealbreaker that won't change, a pause with its own timeline, a thread that just needs a normal follow-up, or a clear no that should stay closed. Treat all four the same and you'll get at least one wrong: you'll chase something that has clearly ended, or write off something that hasn't.
+The reason you're given for a failure isn't always the whole story. "It didn't work out" can mean several different things. It might be a real dealbreaker that won't change, a pause with its own timeline, a thread that just needs a normal follow-up, or a clear no that should stay closed. Treat all four the same and you'll get at least one wrong: you'll chase something that has clearly ended, or write off something that hasn't.
 
 [![A simple tree of possible classifications after an outcome.](assets/diagrams/03-post-mortem-builder.svg)](SKILL.md)
 
